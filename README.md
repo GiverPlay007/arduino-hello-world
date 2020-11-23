@@ -1,2 +1,4 @@
-# ArduinoHelloWorld
-:bulb: Hello World com Arduino
+# Arduino Hello World
+
+:bulb: Hello World com Arduino UNO!  
+Essa plaquinha é sensacional!
