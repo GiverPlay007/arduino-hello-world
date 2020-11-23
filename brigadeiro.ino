@@ -1,6 +1,4 @@
 #define LED 13
-signed long time = 0;
-signed int exec = 0;
 
 void setup() 
 {
